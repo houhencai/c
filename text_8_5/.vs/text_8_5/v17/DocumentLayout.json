@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\12955\\Desktop\\test_c\\text_8_5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CBFAEAC-6585-4A61-8A8E-50B6D204FA87}|text_8_5\\text_8_5.vcxproj|C:\\Users\\12955\\Desktop\\test_c\\text_8_5\\text_8_5\\\u6253\u5370hello world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2CBFAEAC-6585-4A61-8A8E-50B6D204FA87}|text_8_5\\text_8_5.vcxproj|solutionrelative:text_8_5\\\u6253\u5370hello world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u6253\u5370hello world.cpp",
+              "DocumentMoniker": "C:\\Users\\12955\\Desktop\\test_c\\text_8_5\\text_8_5\\\u6253\u5370hello world.cpp",
+              "RelativeDocumentMoniker": "text_8_5\\\u6253\u5370hello world.cpp",
+              "ToolTip": "C:\\Users\\12955\\Desktop\\test_c\\text_8_5\\text_8_5\\\u6253\u5370hello world.cpp",
+              "RelativeToolTip": "text_8_5\\\u6253\u5370hello world.cpp",
+              "ViewState": "AQIAAGQBAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-05T04:26:41.487Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

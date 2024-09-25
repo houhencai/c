@@ -1,0 +1,3 @@
+﻿  程序的内存模型.cpp
+C:\Users\12955\Desktop\test_c\程序的内存模型\程序的内存模型\程序的内存模型.cpp(7,1): warning C4172: 返回局部变量或临时变量的地址: a
+  程序的内存模型.vcxproj -> C:\Users\12955\Desktop\test_c\程序的内存模型\Debug\程序的内存模型.exe
