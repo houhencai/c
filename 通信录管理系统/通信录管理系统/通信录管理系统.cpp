@@ -252,7 +252,7 @@ void modifyperson(adressbooks* abs)
 	system("cls");
 	//}
 }
-void cleanperson(adressbooks* abs)
+void cleanperson(adressbooks* abs)//清除联系人
 {
 	cout << "你确定要清空联系人吗？" << endl;
 	cout << "**** 1.确定清空 ****"<<endl;
