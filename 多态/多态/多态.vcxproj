@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9814108f-233c-4a45-9dbf-1cadfb1cdbfd}</ProjectGuid>
-    <RootNamespace>函数</RootNamespace>
+    <ProjectGuid>{fd02afb6-1805-41f7-a2d5-643052f82902}</ProjectGuid>
+    <RootNamespace>多态</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="函数的默认参数.cpp" />
-    <ClCompile Include="函数重载的注意事项.cpp" />
+    <ClCompile Include="多态案例1：计算器.cpp" />
+    <ClCompile Include="多态案例2：制作饮品.cpp" />
+    <ClCompile Include="多态的基本概念.cpp" />
+    <ClCompile Include="案例三：电脑组装%28错误%29.cpp" />
+    <ClCompile Include="案例三：电脑组装.cpp" />
+    <ClCompile Include="纯虚函数和抽象类.cpp" />
+    <ClCompile Include="#include.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

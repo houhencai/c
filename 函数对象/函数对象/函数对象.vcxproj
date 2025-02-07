@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{9814108f-233c-4a45-9dbf-1cadfb1cdbfd}</ProjectGuid>
-    <RootNamespace>函数</RootNamespace>
+    <ProjectGuid>{aa25f2e7-69b2-4d55-b35c-d979406c04c2}</ProjectGuid>
+    <RootNamespace>函数对象</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -127,8 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="函数的默认参数.cpp" />
-    <ClCompile Include="函数重载的注意事项.cpp" />
+    <ClCompile Include="1.函数对象的基本对象.cpp" />
+    <ClCompile Include="2.谓词概念.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

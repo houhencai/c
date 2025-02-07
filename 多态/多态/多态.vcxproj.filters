@@ -15,10 +15,25 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="函数的默认参数.cpp">
+    <ClCompile Include="多态的基本概念.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="函数重载的注意事项.cpp">
+    <ClCompile Include="多态案例1：计算器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="纯虚函数和抽象类.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="多态案例2：制作饮品.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="#include.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="案例三：电脑组装%28错误%29.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="案例三：电脑组装.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

@@ -15,10 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="函数的默认参数.cpp">
+    <ClCompile Include="1.函数对象的基本对象.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="函数重载的注意事项.cpp">
+    <ClCompile Include="2.谓词概念.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
